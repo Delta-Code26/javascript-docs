@@ -34,32 +34,23 @@ Repositori ini berisi dokumentasi lengkap tentang JavaScript, mulai dari pengena
 1. Clone repositori ini:
    ```bash
    git clone https://github.com/Delta-Code26/javascript-docs.git
-````
-
 2. Masuk ke folder proyek:
 
    ```bash
    cd javascript-docs
-   ```
 
 3. Install MkDocs:
 
    ```bash
    pip install mkdocs
-   ```
-
 4. Jalankan dokumentasi secara lokal:
 
    ```bash
    mkdocs serve
-   ```
-
 5. Buka di browser:
 
    ```
    http://127.0.0.1:8000
-   ```
-
 ## 🌐 Deploy ke GitHub Pages
 
 Untuk menerbitkan dokumentasi ini secara online:
@@ -83,5 +74,3 @@ Dokumentasi ini dirilis di bawah [MIT License](LICENSE).
 
 > *"Kuasai JavaScript, dan dunia web akan terbuka di tanganmu."*
 > – Penulis tak dikenal, mungkin dari masa depan
-
-```

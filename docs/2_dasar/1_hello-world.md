@@ -102,9 +102,6 @@ console.log(123, true, "Belajar itu menyenangkan");
 ```
 
 ---
-
 > Perjalanan seribu baris kode dimulai dari satu `console.log`.
 
 Selanjutnya, kita akan belajar tentang **variabel** dan bagaimana cara menyimpan data dalam JavaScript.
-
-```

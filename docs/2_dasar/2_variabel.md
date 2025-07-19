@@ -11,7 +11,7 @@ JavaScript menyediakan **tiga cara** untuk mendeklarasikan variabel:
 ```javascript
 var nama = "Marno";
 let usia = 21;
-const negara = "Malaysia";
+const negara = "Indonesia";
 ````
 
 | Kata Kunci | Bisa Diubah Nilainya? | Lingkup (Scope) | Direkomendasikan |
