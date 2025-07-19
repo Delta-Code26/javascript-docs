@@ -33,7 +33,7 @@ Repositori ini berisi dokumentasi lengkap tentang JavaScript, mulai dari pengena
 
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/namakamu/javascript-docs.git
+   git clone https://github.com/Delta-Code26/javascript-docs.git
 ````
 
 2. Masuk ke folder proyek:
