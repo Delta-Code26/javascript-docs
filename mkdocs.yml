@@ -1,0 +1,64 @@
+site_name: Dokumentasi Javascript
+site_url: https://example.com
+theme:
+  name: material
+  language: id
+  features:
+    - navigation.sections
+    - navigation.instant
+    - toc.integrate
+    - content.code.copy
+    - content.tabs.link
+
+nav:
+  - Beranda: index.md
+  - Pendahuluan:
+      - Apa itu JavaScript: 1_pendahuluan/1_apa-itu-javascript.md
+      - Sejarah JavaScript: 1_pendahuluan/2_sejarah-javascript.md
+  - Dasar-dasar:
+      - Hello World: 2_dasar/1_hello-world.md
+      - Variabel: 2_dasar/2_variabel.md
+      - Tipe Data: 2_dasar/3_tipe-data.md
+      - Kontrol: 2_dasar/4_kontrol.md
+      - Operator: 2_dasar/5_operator.md
+  - Fungsi:
+      - Fungsi Dasar: 3_fungsi/1_fungsi-dasar.md
+      - Scope dan Hoisting: 3_fungsi/2_scope-hoisting.md
+      - Closure: 3_fungsi/3_closure.md
+  - Objek dan Array:
+      - Objek: 4_objek-array/1_objek.md
+      - Array: 4_objek-array/2_array.md
+      - Destructuring: 4_objek-array/3_destructuring.md
+  - DOM:
+      - Seleksi: 5_dom/1_seleksi.md
+      - Manipulasi: 5_dom/2_manipulasi.md
+      - Event: 5_dom/3_event.md
+  - Asynchronous JavaScript:
+      - Callback: 6_async/1_callback.md
+      - Promises: 6_async/2_promises.md
+      - Async/Await: 6_async/3_async-await.md
+  - Modularisasi:
+      - ES Modules: 7_modularisasi/1_es6-modules.md
+      - CommonJS: 7_modularisasi/2_commonjs.md
+  - Error Handling:
+      - Try/Catch: 8_error-handling/1_try-catch.md
+      - Debugging: 8_error-handling/2_debugging.md
+  - Best Practices:
+      - Penamaan: 9_best-practices/1_penamaan.md
+      - Clean Code: 9_best-practices/2_clean-code.md
+  - Advanced:
+      - Inheritance: 10_advanced/1_inheritance.md
+      - Event Loop: 10_advanced/2_event-loop.md
+      - Web Storage: 10_advanced/3_web-storage.md
+      - Functional: 10_advanced/4_functional.md
+  - Modern:
+      - Fitur Baru ES6: 11_modern/1_fitur-baru-es6.md
+      - Optional Chaining: 11_modern/2_optional-chaining.md
+      - Top Level Await: 11_modern/3_top-level-await.md
+  - Testing:
+      - Jest: 12_testing/1_jest.md
+      - Dom Testing: 12_testing/2_dom-testing.md
+  - Dunia Nyata:
+      - JavaScript Browser: 13_dunia-nyata/1_javascript-browser.md
+      - Node.js: 13_dunia-nyata/2_nodejs.md
+      - Frameworks: 13_dunia-nyata/3_frameworks.md
